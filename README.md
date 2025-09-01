@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=irohayashi&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=irohayashi&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irohayashi&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![]()
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=irohayashi&theme=one_dark_pro&no-frame=true&no-bg=true&margin-w=)
